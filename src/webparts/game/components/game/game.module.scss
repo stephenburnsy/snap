@@ -1,0 +1,11 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+
+.game{
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+    padding: 20px;
+    width: 700px;
+    height: 500px; 
+    background-color: green;
+}
